@@ -21,6 +21,17 @@ Bem-vindo(a)! Este repositório reúne atividades práticas. Para utilizá-las, 
        │  ├─ metal_bands.csv
        │  └─ pokemnon_data.csv
        └─ Atividade1_PySpark.ipynb
+    /
+    │
+    ├── Atividade 2 - Arquitetura Medalhão (Bronze e Silver Layer).pdf
+    │   (Documento PDF com os requisitos originais do desafio)
+    │
+    ├── Atividade2_land_to_bronze.ipynb.ipynb
+    │   (Notebook 1: Ingestão da Landing Zone para a Camada Bronze)
+    │
+    ├── Atividade2_bronze_to_silver.ipynb.ipynb
+    │   (Notebook 2: Transformação da Camada Bronze para a Camada Silver)
+
     ```
 
 ---
