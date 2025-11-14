@@ -10,8 +10,7 @@ Bem-vindo(a)! Este repositório reúne atividades práticas. Para utilizá-las, 
 
 ## 🧭 Estrutura do Repositório
 
-- O repositório terá, na estrutura, **uma pasta para cada atividade**, contendo todas as informações necessárias para sua realização (**notebook, datasets, etc.**).
-- A pasta **`Atividade01 - Pyspark/dados/`** contém os **datasets** necessários para a Atividade 01.
+  O repositório está organizado com os notebooks da solução e os arquivos de documentação do desafio.
   - Exemplo de estrutura:
     ```
     /
@@ -30,7 +29,7 @@ Bem-vindo(a)! Este repositório reúne atividades práticas. Para utilizá-las, 
     │   (Notebook 1: Ingestão da Landing Zone para a Camada Bronze)
     │
     ├── Atividade2_bronze_to_silver.ipynb.ipynb
-    │   (Notebook 2: Transformação da Camada Bronze para a Camada Silver)
+       (Notebook 2: Transformação da Camada Bronze para a Camada Silver)
 
     ```
 
